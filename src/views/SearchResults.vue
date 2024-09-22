@@ -448,7 +448,8 @@ h1 {
 }
 @media screen and (max-width: 768px) {
     .movie-item {
-        min-height: max-content;
+        min-height: auto;
+        height: auto;
     }
     .movie-poster {
         width: 122px;
