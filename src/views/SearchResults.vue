@@ -263,7 +263,6 @@ onMounted(async () => {
 });
 
 const goBack = () => history.back();
-defineExpose({});
 </script>
 
 <style scoped>
